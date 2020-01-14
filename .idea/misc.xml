@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/bmall-user/pom.xml" />
         <option value="$PROJECT_DIR$/bmall-parent/pom.xml" />
         <option value="$PROJECT_DIR$/bmall-api/pom.xml" />
+        <option value="$PROJECT_DIR$/bmall-common-util/pom.xml" />
       </list>
     </option>
   </component>
