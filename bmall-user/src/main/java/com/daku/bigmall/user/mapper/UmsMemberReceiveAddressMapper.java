@@ -1,6 +1,6 @@
 package com.daku.bigmall.user.mapper;
 
-import com.daku.bigmall.user.bean.UmsMemberReceiveAddress;
+import com.daku.bmall.bean.UmsMemberReceiveAddress;
 import tk.mybatis.mapper.common.Mapper;
 
 /**

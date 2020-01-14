@@ -1,10 +1,10 @@
 package com.daku.bigmall.user.service.impl;
 
-import com.daku.bigmall.user.bean.UmsMember;
-import com.daku.bigmall.user.bean.UmsMemberReceiveAddress;
 import com.daku.bigmall.user.mapper.UmsMemberReceiveAddressMapper;
 import com.daku.bigmall.user.mapper.UserMapper;
-import com.daku.bigmall.user.service.UserService;
+import com.daku.bmall.bean.UmsMember;
+import com.daku.bmall.bean.UmsMemberReceiveAddress;
+import com.daku.bmall.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import tk.mybatis.mapper.entity.Example;

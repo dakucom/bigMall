@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/bigMall.iml" filepath="$PROJECT_DIR$/.idea/bigMall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bmall-api/bmall-api.iml" filepath="$PROJECT_DIR$/bmall-api/bmall-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/bmall-parent/bmall-parent.iml" filepath="$PROJECT_DIR$/bmall-parent/bmall-parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/bmall-user/bmall-user.iml" filepath="$PROJECT_DIR$/bmall-user/bmall-user.iml" />
     </modules>

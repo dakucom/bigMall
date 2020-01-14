@@ -1,8 +1,8 @@
 package com.daku.bigmall.user.controller;
 
-import com.daku.bigmall.user.bean.UmsMember;
-import com.daku.bigmall.user.bean.UmsMemberReceiveAddress;
-import com.daku.bigmall.user.service.UserService;
+import com.daku.bmall.bean.UmsMember;
+import com.daku.bmall.bean.UmsMemberReceiveAddress;
+import com.daku.bmall.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
