@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/bigMall.iml" filepath="$PROJECT_DIR$/.idea/bigMall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bmall-parent/bmall-parent.iml" filepath="$PROJECT_DIR$/bmall-parent/bmall-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bmall-user/bmall-user.iml" filepath="$PROJECT_DIR$/bmall-user/bmall-user.iml" />
+    </modules>
+  </component>
+</project>
