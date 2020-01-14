@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/bmall-parent/bmall-parent.iml" filepath="$PROJECT_DIR$/bmall-parent/bmall-parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/bmall-service-util/bmall-service-util.iml" filepath="$PROJECT_DIR$/bmall-service-util/bmall-service-util.iml" />
       <module fileurl="file://$PROJECT_DIR$/bmall-user/bmall-user.iml" filepath="$PROJECT_DIR$/bmall-user/bmall-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bmall-web-util/bmall-web-util.iml" filepath="$PROJECT_DIR$/bmall-web-util/bmall-web-util.iml" />
     </modules>
   </component>
 </project>

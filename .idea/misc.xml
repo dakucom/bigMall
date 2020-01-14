@@ -11,6 +11,7 @@
         <option value="$PROJECT_DIR$/bmall-api/pom.xml" />
         <option value="$PROJECT_DIR$/bmall-common-util/pom.xml" />
         <option value="$PROJECT_DIR$/bmall-service-util/pom.xml" />
+        <option value="$PROJECT_DIR$/bmall-web-util/pom.xml" />
       </list>
     </option>
   </component>

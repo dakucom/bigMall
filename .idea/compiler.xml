@@ -9,6 +9,7 @@
         <module name="bmall-service-util" />
         <module name="bmall-api" />
         <module name="bmall-user" />
+        <module name="bmall-web-util" />
         <module name="bmall-common-util" />
       </profile>
     </annotationProcessing>
@@ -18,6 +19,7 @@
       <module name="bmall-parent" target="1.8" />
       <module name="bmall-service-util" target="1.8" />
       <module name="bmall-user" target="1.8" />
+      <module name="bmall-web-util" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -28,6 +30,7 @@
       <module name="bmall-parent" options="" />
       <module name="bmall-service-util" options="" />
       <module name="bmall-user" options="" />
+      <module name="bmall-web-util" options="" />
     </option>
   </component>
 </project>
